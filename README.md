@@ -1,3 +1,14 @@
+# THIS CORE IS BASED ON [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer).
+## I HASVE MADE SOME CHANGES ON CORE PDFIUM THAT USED IN THIS LIBRARY
+.
+.
+.
+.
+.
+.
+.
+
+
 
 # Looking for new maintainer!
 
