@@ -1,5 +1,5 @@
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
-[![](https://jitpack.io/v/HamidrezaAmz/android-support-pdfium.svg)](https://jitpack.io/#HamidrezaAmz/MagicalPdfViewer)
+[![](https://jitpack.io/v/HamidrezaAmz/MagicalPdfViewer.svg)](https://jitpack.io/#HamidrezaAmz/MagicalPdfViewer)
 
 # THIS CORE IS BASED ON [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer).
 ## I HASVE MADE SOME CHANGES ON CORE PDFIUM THAT USED IN THIS LIBRARY
